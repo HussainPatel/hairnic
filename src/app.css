@@ -1,5 +1,5 @@
 .bgimg {
-  background-image: url("../public/img/bg.png");
+  background-image: url("/img/bg.png");
   background-color: #90bc79;
 }
 .nav-link a:active {
@@ -21,4 +21,8 @@
   100% {
     transform: scaleX(1);
   }
+}
+.ncard {
+  background-color: #90bc79;
+  outline: 8px solid #90bc79;
 }
