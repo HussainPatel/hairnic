@@ -26,3 +26,15 @@
   background-color: #90bc79;
   outline: 8px solid #90bc79;
 }
+.fa-star {
+  color: #90bc79;
+}
+.btn1 {
+  border: 3px solid #90bc79 !important;
+  background-color: white !important;
+  color: #90bc79 !important;
+}
+.btn1:hover {
+  background-color: #90bc79 !important;
+  color: white !important;
+}

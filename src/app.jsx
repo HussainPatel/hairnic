@@ -6,6 +6,7 @@ import Healthyhairs from "./assets/Healthyhairs.jsx";
 import Deals from "./assets/Deals.jsx";
 import Benifits from "./assets/Benifits.jsx";
 import Use from "./assets/Use.jsx";
+import Products from "./assets/Products.jsx";
 
 export function App() {
   return (
@@ -17,6 +18,7 @@ export function App() {
       <Deals />
       <Benifits />
       <Use />
+      <Products />
     </>
   );
 }
